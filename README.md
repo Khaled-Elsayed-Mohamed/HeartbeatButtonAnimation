@@ -58,9 +58,6 @@ This repository contains a complete, self-contained Swift implementation ready f
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues](https://github.com/Khaled-Elsayed-Mohamed/HeartbeatButtonAnimation/issues) page.
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
